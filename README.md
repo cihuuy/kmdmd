@@ -143,5 +143,3 @@ Implementation details:
 - The rootkit receives the name of the file to be hidden.
 - It hooks the `getdents64` system call and in the custom `hook_getdents64` function, it filters out any directory entries that match the specified file name, effectively hiding the file from listings.
 
-![](/figure.png)
-testing figure
