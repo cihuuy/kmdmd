@@ -1,4 +1,4 @@
-# CSIE5374 Rootkit Project
+#  Rootkit Project
 
 ## Introduction
 
